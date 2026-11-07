@@ -4,7 +4,7 @@ This project explores whether a bank customer will subscribe to a term deposit f
 
 ## Project contents
 
-- [Final analysis notebook](Neural_Notebook.ipynb) — data preparation, analysis, model training, and evaluation.
+- [Final analysis notebook](Neural_Network.ipynb) — data preparation, analysis, model training, and evaluation.
 - [Bank Marketing dataset](bank-full.csv) — dataset used by the analysis.
 
 ## Analysis overview
